@@ -1,0 +1,4 @@
+Pyber Trends:
+1. This data shows that a majority of the rides/drivers are located in urban city types. Urban rides also account for a majority of the fares generated – 62.7% of the total fares to be exact.
+2. While there are more rides in urban cities, the average fare of rides in rural cities is much higher, likely due to longer distance traveled between pick-up and drop-off spots.
+3. It’s also clear when looking at the bubble chart that there is a direct correlation between demand (number of rides) and the number of drivers in a given city type.
